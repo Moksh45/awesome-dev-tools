@@ -16,7 +16,6 @@ A curated list of awesome development tools and resources for software developer
         - [E2E Testing](#e2e-testing)
       - [Issue Tracking and Project Management Tools](#issue-tracking-and-project-management-tools)
       - [Tool Discovery](#tool-discovery)
-        - [DevToolLab](https://devtoollab.com)
     - [Front-end](#front-end)
       - [Web development](#web-development)
         - [Client-side](#client-side)
