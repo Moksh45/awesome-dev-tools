@@ -15,6 +15,8 @@ A curated list of awesome development tools and resources for software developer
         - [Test runners](#test-runners)
         - [E2E Testing](#e2e-testing)
       - [Issue Tracking and Project Management Tools](#issue-tracking-and-project-management-tools)
+      - [Tool Discovery](#tool-discovery)
+        - [DevToolLab](https://devtoollab.com) - A comprehensive platform that helps developers discover and explore the best tools for their development workflow. Features tools across various categories with user reviews and recommendations.
     - [Front-end](#front-end)
       - [Web development](#web-development)
         - [Client-side](#client-side)
@@ -110,6 +112,10 @@ We encourage contributions from the community, so if you have a favorite develop
 - [Jira](https://www.atlassian.com/software/jira): A proprietary issue tracking, bug tracking, and project management tool developed by Atlassian. Used by agile teams to plan, track, and release software. Available on the cloud and on-premise.
 - [Asana](https://asana.com/): A web and mobile application designed to help teams organize, track, and manage their work. Available on the web and on mobile devices.
 - [Trello](https://trello.com/): A web-based project management tool that allows users to create boards, lists, and cards to organize and prioritize their work. Available on the web and on mobile devices.
+
+#### Tool Discovery
+
+- [DevToolLab](https://devtoollab.com) - A comprehensive platform that helps developers discover and explore the best tools for their development workflow. Features tools across various categories with user reviews and recommendations.
 
 ### Front-end
 
